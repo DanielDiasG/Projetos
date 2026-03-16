@@ -24,7 +24,9 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="60" width="60"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- 
  <img align="center" alt="GitHub" height="500" width="210"
  src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6se8hm6xjzw0uvos5od.jpg">
+  <img align="center" alt="Energia" height="200" width="410"
+ src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6se8hm6xjzw0uvos5od.jpg">
+ 
  
