@@ -3,7 +3,7 @@
   O sistema foi feito para calcular o consumo mensal de energia de um aparelho domestico.
    Seu objetivo é ajudar usuários a estimar quanto um aparelho gasta de energia elétrica por mês, com base em dados simples de uso.
 
-
+<br><br><br><br>
 
             
    -----------------------**LINGUAGEM UTILIZADA:**------------------------------------
@@ -14,7 +14,7 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
 
 
 
-
+<br><br><br>
 
    -------------------**FÓRMULAS UTILIZADAS PARA OS CÁLCULOS:**-----------------------------
   
@@ -23,14 +23,14 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
    custo_estimado = consumo_mensal_kwh * 0.75 # considerando o valor médio
 
 
-
+<br><br><br>
       
   -----------------------**INSTRUÇÕES PARA EXECUTAR O PROGRAMA:**--------------------
   
  Assim que executá-lo é preciso informar os dados para o cálculo, como a potência, as horas de uso e para estruturação e organização da saída do programa o nome do aparelho.
 
 
- 
+ <br><br><br>
   
   ---------------------**TECNOLOGIAS ENVOLVIDAS NO PROJETO:**-----------------------------
    
