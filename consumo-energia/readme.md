@@ -22,7 +22,7 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
   
    Tecnologias envolvidas no projeto:
 <div style="display: inline_block"><br>
- <img align="center" alt="Python" height="400" width="400"
+ <img align="center" alt="Python" height="210" width="210"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
  <img align="center" alt="GitHub" height="500" width="210"
