@@ -1,10 +1,12 @@
   -------------------- SISTEMA DE CONSUMO DE ENERGIA ------------------------------
+
     O sistema foi feito para calcular o consumo mensal de energia de um aparelho domestico.
    Seu objetivo é ajudar usuários a estimar quanto um aparelho gasta de energia elétrica por mês, com base em dados simples de uso.
 
 
             
    Linguagem usada:
+   
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="100" width="100"
 src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -23,6 +25,6 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
  <img align="center" alt="Python" height="60" width="60"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
- <img align="center" alt="GitHub" height="60" width="60"
+ <img align="center" alt="GitHub" height="500" width="210"
  src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6se8hm6xjzw0uvos5od.jpg">
  
