@@ -4,6 +4,7 @@
    Seu objetivo é ajudar usuários a estimar quanto um aparelho gasta de energia elétrica por mês, com base em dados simples de uso.
 
 
+
             
    -----------------------**LINGUAGEM UTILIZADA:**------------------------------------
    
@@ -13,17 +14,25 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
 
 
 
- ---------------------**FÓRMULAS UTILIZADAS PARA OS CÁLCULOS:**-----------------------------
+
+
+   -------------------**FÓRMULAS UTILIZADAS PARA OS CÁLCULOS:**-----------------------------
   
    consumo_mensal_kwh = (potencia * horas_uso * 30) / 1000 
    
    custo_estimado = consumo_mensal_kwh * 0.75 # considerando o valor médio
+
+
+
       
- -------------------------**INSTRUÇÕES PARA EXECUTAR O PROGRAMA:**--------------------
+  -----------------------**INSTRUÇÕES PARA EXECUTAR O PROGRAMA:**--------------------
   
  Assim que executá-lo é preciso informar os dados para o cálculo, como a potência, as horas de uso e para estruturação e organização da saída do programa o nome do aparelho.
+
+
+ 
   
------------------------**TECNOLOGIAS ENVOLVIDAS NO PROJETO:**-----------------------------
+  ---------------------**TECNOLOGIAS ENVOLVIDAS NO PROJETO:**-----------------------------
    
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="210" width="210"
