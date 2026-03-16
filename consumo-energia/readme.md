@@ -14,10 +14,12 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
 
 
   **FÓRMULAS UTILIZADAS PARA OS CÁLCULOS:**
-      consumo_mensal_kwh = (potencia * horas_uso * 30) / 1000 
-      custo_estimado = consumo_mensal_kwh * 0.75 # considerando o valor médio
+  
+   consumo_mensal_kwh = (potencia * horas_uso * 30) / 1000 
+   custo_estimado = consumo_mensal_kwh * 0.75 # considerando o valor médio
       
   **INSTRUÇÕES PARA EXECUTAR O PROGRAMA:**
+  
  Assim que executá-lo é preciso informar os dados para o cálculo, como a potência, as horas de uso e para estruturação e organização da saída do programa o nome do aparelho.
   
    **TECNOLOGIAS ENVOLVIDAS NO PROJETO:**
