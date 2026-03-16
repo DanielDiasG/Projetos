@@ -25,10 +25,10 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
  <img align="center" alt="Python" height="210" width="210"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
- <img align="center" alt="GitHub" height="500" width="210"
- src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu6se8hm6xjzw0uvos5od.jpg">
+ <img align="center" alt="GitHub" height="210" width="210"
+ src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png">
   
-  <img align="center" alt="Energia" height="340" width="183"
- src="https://www.portaldoeletrodomestico.com.br/dica/etiqueta_PBE_lampadas.jpg">
+  <img align="center" alt="Energia" height="210" width="210"
+ src="https://thumbs.dreamstime.com/b/%C3%ADcone-de-fa%C3%ADsca-luz-da-l%C3%A2mpada-energia-desenho-do-vetor-azul-utiliza%C3%A7%C3%A3o-simples-e-bem-organizada-para-fins-comerciais-233912376.jpg">
  
  
