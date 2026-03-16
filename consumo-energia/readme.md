@@ -5,7 +5,7 @@
 
 
             
-  ** Linguagem usada:**
+  ** LINGUAGEM UTILIZADA:**
    
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="100" width="100"
@@ -13,14 +13,14 @@ src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
 
 
 
-  ** Fórmulas utilizadas para os cálculos: **
+  ** FÓRMULAS UTILIZADAS PARA OS CÁLCULOS: **
       consumo_mensal_kwh = (potencia * horas_uso * 30) / 1000 
       custo_estimado = consumo_mensal_kwh * 0.75 # considerando o valor médio
       
-  ** Instruções para executar o programa: **
+  ** INSTRUÇÕES PARA EXECUTAR O PROGRAMA: **
  Assim que executá-lo é preciso informar os dados para o cálculo, como a potência, as horas de uso e para estruturação e organização da saída do programa o nome do aparelho.
   
-   **Tecnologias envolvidas no projeto:**
+   **TECNOLOGIAS ENVOLVIDAS NO PROJETO:**
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="210" width="210"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
