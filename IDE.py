@@ -1,0 +1,1 @@
+print("IDE instalada com sucesso e em pleno funcionamento")
